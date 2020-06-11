@@ -14,7 +14,7 @@ public class Omoke_Label extends JFrame
     // 레이블 변수
     Omoke_Label label1, label2, label3;
     
-    // 레이블 생성자
+    // LABEL CONSTRUCTER
     public Omoke_Label() 
     {        
 
