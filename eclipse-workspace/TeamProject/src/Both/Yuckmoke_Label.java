@@ -1,6 +1,6 @@
 package Both;
 //MADE BY CHANHWI
-
+//
 import java.awt.Dimension;
 import java.awt.Panel;
 
