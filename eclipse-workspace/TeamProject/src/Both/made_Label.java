@@ -11,8 +11,7 @@ public class made_Label {
     Panel p;
     // 레이블 변수
     made_Label label1, label2, label3;
-    
-    // 레이블 생성자
+
     public made_Label() 
     {        
 
